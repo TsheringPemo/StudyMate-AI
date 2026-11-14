@@ -1,0 +1,4 @@
+streamlit>=1.40
+pandas>=2.2
+requests>=2.32
+matplotlib>=3.8      # only needed for generate_assets.py (report figures)
